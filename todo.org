@@ -1,0 +1,5 @@
+#    -*- mode: org -*-
+#+TITLE: {{project_name}} notes
+#+STARTUP: hidestars
+#+STARTUP: indent
+

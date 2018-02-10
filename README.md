@@ -7,4 +7,4 @@ This project was init by https://github.com/Pwu/emacs-template-project
 - https://github.com/tuxredux/cookiecutter-git
 
 
-# {{project}}
+# {{cookiecutter.project_name}}

@@ -6,6 +6,9 @@ cookiecutter https://github.com/Pwu/emacs-template-project
 
 # Requirement 
 
+- python 
+- cookiecutter python package
+
 ```bash
 pip install cookiecutter
 ```

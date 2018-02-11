@@ -1,13 +1,20 @@
-# Init
+# How to use 
 
-This project was init by https://github.com/Pwu/emacs-template-project
+``` bash
+cookiecutter https://github.com/Pwu/emacs-template-project
+```
 
-*Use cookiecutter-git*
+# Requirement 
+
+```bash
+pip install cookiecutter
+```
+
+# Cookiecutter-git
 - https://github.com/audreyr/cookiecutter
 - https://github.com/tuxredux/cookiecutter-git
 
-
 # Current variables 
 
-{{cookiecutter.project_name}}
-{{cookiecutter.project_name_slug}}
+- {{cookiecutter.project_name}}
+- {{cookiecutter.project_name_slug}}

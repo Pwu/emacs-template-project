@@ -1,7 +1,7 @@
 # How to use 
 
 ``` bash
-cookiecutter https://github.com/Pwu/emacs-template-project
+cookiecutter https://github.com/pwu/emacs-template-project
 ```
 
 # Requirement 

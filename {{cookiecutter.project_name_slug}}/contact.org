@@ -1,4 +1,0 @@
-#    -*- mode: org -*-
-#+TITLE: {{cookiecutter.project_name}} contacts
-#+STARTUP: hidestars
-#+STARTUP: indent
